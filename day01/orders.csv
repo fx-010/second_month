@@ -1,0 +1,11 @@
+OrderID,CustomerID,Product,Category,Amount,OrderDate
+101,1,Laptop,Electronics,1200,2024-03-01
+102,2,Shirt,Clothing,45,2024-03-02
+103,1,Phone,Electronics,800,2024-03-03
+104,3,Shoes,Clothing,90,2024-03-04
+105,2,Tablet,Electronics,600,2024-03-05
+106,4,Headphones,Electronics,150,2024-03-06
+107,3,Watch,Accessories,200,2024-03-07
+108,5,Mouse,Electronics,50,2024-03-08
+109,4,Keyboard,Electronics,80,2024-03-09
+110,5,Jacket,Clothing,120,2024-03-10
