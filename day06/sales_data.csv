@@ -1,0 +1,8 @@
+OrderID,CustomerID,Product,Amount,OrderDate
+101,1,Laptop,1200,2024-03-01
+102,2,Shirt,45,2024-03-02
+103,1,Phone,800,2024-03-03
+104,3,Shoes,90,2024-03-04
+105,2,Tablet,600,2024-03-05
+106,4,Headphones,150,2024-03-06
+107,3,Watch,200,2024-03-07
